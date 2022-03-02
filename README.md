@@ -15,3 +15,18 @@ Arithematic :- + - % / ** *
  && = and
  || = or
  
+String operator : used for concatenation 
+Note : . is used for concatenate which is also used in oops.
+print "hello"."class";
+
+.= concatenation assignment operator
+
+Array opoperator
+$stu_rec=array();
+$stu_rec=array(1,2,3,4);
+$stu_cls = [1,2,3,4];
+
+The above three arrays have same meaning with differnt syntax
+
+Php array can contain multiple data types
+
