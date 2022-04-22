@@ -43,25 +43,27 @@ $_Post [ ]
 
 -> To read from one page to another we use  - super global (7 in syllabus)
 
+COOKIE:-
+Small text files that are installed on the clients computer in the cache memory of the browser.
+Max size - 4kb. Cookie are also known web as cookie, cookie or internet cookie..
+
+Whenever a user visits to a particular website very 1st time the site send packets of data 
+The info stored in cookie is not secured because this info. is stored in the text formed in the client side.
+We can enable and disable the cookie as per the requirement.
+Note:- Sometimes we can also use cookie as a data transfer medium among the various web pages of a website 
+
+$_COOKIE , $_SESSION 
+ 
+ these also creat in user machine and did not on server 
 
 
+Cookie are independent but sessions are dependent. for ex- user name pass delete when we clear cookie but they stay when we clear session..
 
+7 parameter
+NAme of cookie ,actual value of cookie ,time(seconds), path,domain,secure,https
 
+Secure - security rules followed or not .
 
+set cookiefunciton to create and delete cookie ....
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Super cookie $_cookie- to axis data of coookie
