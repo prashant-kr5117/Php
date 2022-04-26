@@ -30,8 +30,6 @@ The above three arrays have same meaning with differnt syntax
 
 Php array can contain multiple data types
 
-
-
 #Form
 
 get is generally use when , its unsecure-because axix by url which can anyone axis (unauthorised user) , use for bookmark 
@@ -64,6 +62,7 @@ NAme of cookie ,actual value of cookie ,time(seconds), path,domain,secure,https
 
 Secure - security rules followed or not .
 
-set cookiefunciton to create and delete cookie ....
+set cookie funciton to create and delete cookie ....
 
 Super cookie $_cookie- to axis data of coookie
+
