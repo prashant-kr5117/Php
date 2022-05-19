@@ -50,7 +50,9 @@ The info stored in cookie is not secured because this info. is stored in the tex
 We can enable and disable the cookie as per the requirement.
 Note:- Sometimes we can also use cookie as a data transfer medium among the various web pages of a website 
 
-$_COOKIE , $_SESSION 
+$_COOKIE , 
+
+$_SESSION - Use to manage information across differnet pages.
  
  these also creat in user machine and did not on server 
 
